@@ -1,0 +1,205 @@
+Language: Python
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
+  License: GPL
+  Author: www.python.org
+--------------------------------------------------
+Language: C
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg
+  License: Public domain
+  Author: ElodinKaldwin
+--------------------------------------------------
+Language: Java
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/4/46/Programmation_Java.png
+  License: CC BY-SA 3.0
+  Author: DavidL, from File:Java Programming Cover.jpg (whose author is Arun Reginald).
+--------------------------------------------------
+Language: C#
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png
+  License: Public domain
+  Author: Tim Heuer
+--------------------------------------------------
+Language: JavaScript
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg
+  License: Public domain
+  Author: Chris Williams
+--------------------------------------------------
+Language: Go
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg
+  License: Public domain
+  Author: The Go Authors
+--------------------------------------------------
+Language: Visual Basic
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg
+  License: Public domain
+  Author: Jason Groce
+--------------------------------------------------
+Language: Ada
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/3/31/Ada_horizon_green_logo_with_slogan.svg
+  License: CC0
+  Author: Captain-Haddock17
+--------------------------------------------------
+Language: Delphi/Object Pascal
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/1/1b/Delphi7Screenshot.jpg
+  License: Public domain
+  Author: JimmizPapaz
+--------------------------------------------------
+Language: Perl
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/3/34/Perl-logo.svg
+  License: CC BY 4.0
+  Author: Created for us by Zach Roszczewski and commissioned by Neil Bowers.
+--------------------------------------------------
+Language: Fortran
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg
+  License: Public domain
+  Author: Fortran-lang community
+--------------------------------------------------
+Language: SQL
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/d/d7/SQL_Image.svg
+  License: CC BY-SA 4.0
+  Author: AMAZON
+--------------------------------------------------
+Language: PHP
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg
+  License: CC BY-SA 4.0
+  Author: Colin Viebrock
+--------------------------------------------------
+Language: R
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg
+  License: CC BY-SA 4.0
+  Author: The R Foundation
+--------------------------------------------------
+Language: MATLAB
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png
+  License: Public domain
+  Author: Jarekt, LukeTriton
+--------------------------------------------------
+Language: Scratch
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/f/f1/Scratchlogo.svg
+  License: Public domain
+  Author: Scratch Team
+--------------------------------------------------
+Language: Rust
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg
+  License: CC BY 4.0
+  Author: ™/®Rust Foundation
+--------------------------------------------------
+Language: Assembly language
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/f/f3/Motorola_6800_Assembly_Language.png
+  License: Public domain
+  Author: Swtpc6800 en:User:Swtpc6800 Michael Holley
+--------------------------------------------------
+Language: Kotlin
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg
+  License: Public domain
+  Author: JetBrains
+--------------------------------------------------
+Language: Swift
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg
+  License: Apache License 2.0
+  Author: Apple Inc
+--------------------------------------------------
+Language: COBOL
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/f/f4/VM370_Rel_6_COBOL_compile.png
+  License: CC BY-SA 4.0
+  Author: WEC3390
+--------------------------------------------------
+Language: Ruby
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg
+  License: CC BY-SA 2.5
+  Author: Yukihiro Matsumoto, Ruby Visual Identity Team
+--------------------------------------------------
+Language: Lisp
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg
+  License: CC BY-SA 4.0
+  Author: Jooja
+--------------------------------------------------
+Language: Prolog
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/4/4a/Visual_prolog_1.jpg
+  License: CC BY-SA 4.0
+  Author: USER-PL-39
+--------------------------------------------------
+Language: Classic Visual Basic
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg
+  License: Public domain
+  Author: Microsoft Corporation
+--------------------------------------------------
+Language: Dart
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg
+  License: CC BY 4.0
+  Author: Google
+--------------------------------------------------
+Language: Lua
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg
+  License: Public domain
+  Author: Alexandre Nakonechnyj (Graphic design) and Lua team (PostScript code)
+--------------------------------------------------
+Language: Visual FoxPro
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/6/64/Foxpro-icon.png
+  License: CC BY-SA 4.0
+  Author: Carlosgutierreztobon17
+--------------------------------------------------
+Language: Haskell
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_of_the_Haskell_programming_language.png
+  License: Public domain
+  Author: Unknown, but most likely the website owner.
+--------------------------------------------------
+Language: Scala
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg
+  License: CC BY 4.0
+  Author: Lightbend, Inc.
+--------------------------------------------------
+Language: Julia
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg
+  License: Public domain
+  Author: The Julia Project
+--------------------------------------------------
+Language: VBScript
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/1/13/SampleCode.PNG
+  License: CC BY-SA 3.0
+  Author: Sameer Kumar
+--------------------------------------------------
+Language: TypeScript
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg
+  License: Public domain
+  Author: TypeScript
+--------------------------------------------------
+Language: D
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/2/24/D_Programming_Language_logo.svg
+  License: Attribution
+  Author: D Programming Language contributors
+--------------------------------------------------
+Language: Solidity
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg
+  License: CC BY-SA 3.0
+  Author: Ethereum Foundation
+--------------------------------------------------
+Language: V
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/d/dd/V_programming_language.svg
+  License: CC BY-SA 4.0
+  Author: Zegue leonel
+--------------------------------------------------
+Language: Bash
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg
+  License: FAL
+  Author: Free Software Foundation
+--------------------------------------------------
+Language: Elixir
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/9/92/Official_Elixir_logo.png
+  License: CC BY-SA 4.0
+  Author: José Valim
+--------------------------------------------------
+Language: PowerShell
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
+  License: Public domain
+  Author: Microsoft
+--------------------------------------------------
+Language: Awk
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/d/d5/The-AWK-Programming-Language.svg
+  License: Public domain
+  Author: Alfred Aho
+--------------------------------------------------
+Language: RPG
+  Image URL: https://upload.wikimedia.org/wikipedia/commons/5/58/IBM_RPG_logo.png
+  License: Public domain
+  Author: IBM Corp
+--------------------------------------------------
